@@ -79,11 +79,11 @@ for elemento in listaEjemplo:
     print()
 
 print("Nuevo cambio")
-print("Cambio 2")
-print("Cambio 3")
+print("Cambio master")
+print("Cambio master")
 
-print("Cambio 4")
+print("Cambio master")
 
-print("Cambio 5")
+print("Cambio master")
 
 print("Este es un cambio nuevo desarrollado en nube")
